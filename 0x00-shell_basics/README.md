@@ -1,2 +1,2 @@
 #!/bin/bash
-this is the readme for the folder
+today's task
